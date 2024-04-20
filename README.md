@@ -2,7 +2,7 @@
 
 An artistic representation of "Final Fantasy VII" dialogue, visualized through character-shaped word clouds.
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]() [![GitHub Issues](https://img.shields.io/github/issues/user/ff7-script-analysis.svg)](https://github.com/user/ff7-script-analysis/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/user/ff7-script-analysis.svg)](https://github.com/user/ff7-script-analysis/pulls) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![Status](https://img.shields.io/badge/status-active-success.svg)]() [![GitHub Issues](https://img.shields.io/github/issues/wjsutton/ff7-script-analysis.svg)](https://github.com/wjsutton/ff7-script-analysis/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/wjsutton/ff7-script-analysis.svg)](https://github.com/wjsutton/ff7-script-analysis/pulls) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 ## :rocket: Project Overview
 
